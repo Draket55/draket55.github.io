@@ -78,7 +78,7 @@
   padding-top: 20px;
   padding-bottom: 20px;
 
-  margin-left: 10vw;
+  margin-top: 2vw; 
   margin-bottom: 30vw;
 
   background-color: #2f9466
@@ -90,6 +90,11 @@
 }
 
 .text-2 {
+  font-size: 1.2rem;
+  font font-family: 'Fuzzy Bubbles', cursive;
+
+  padding-left: 5% !important;
+  padding-right: 5% !important;
 color: gold
 }
 
